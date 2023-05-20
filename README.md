@@ -1,8 +1,10 @@
-# LEGO Mindstorms Spike Hub and the Speaker
+# LEGO Spike Hub and the Speaker
 
-A Python snippet utilizing the LEGO Spike speaker, [MicroPython](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/), and the ```beep()```, ```start_beep()```, ```stop()```, ```play_sound()```, and ```set_volume()``` commands.
+A Python snippet utilizing the LEGO Spike speaker, [MicroPython](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/), and the `beep()`, `start_beep()`, `stop()`, `play_sound()`, and `set_volume()` commands.
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [MicroPython for LEGO Robot Inventor](https://www.lego.com/en-ca/themes/mindstorms/downloads)
